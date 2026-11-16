@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-keyboard-navigation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS keyboard-navigation component - localization"
+
+[lib]
+name = "keyboard_navigation"
+path = "src/lib.rs"
