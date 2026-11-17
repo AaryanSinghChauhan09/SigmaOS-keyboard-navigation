@@ -3,7 +3,7 @@ name = "SigmaOS-keyboard-navigation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "keyboard-navigation component"
+description = "Keyboard Navigation"
 upstream = []
 
 [contract]
